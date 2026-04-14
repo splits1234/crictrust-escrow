@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+cache/
+artifacts/
+typechain-types/
+.env
+.env.local
+.env.production
+*.db
+*.log
+*.db*
